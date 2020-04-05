@@ -1,0 +1,265 @@
+body {
+  margin : 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light {
+  margin: 33px;
+}
+a.navbar-brand {
+  padding-right: 30px;
+}
+li.nav-item.active {
+  padding-left: 45px;
+  color:red;
+}
+#rq {
+background: linear-gradient(170.6deg, #1ADB72 -0.5%, #10B151 100%);
+border-radius: 30px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.116946px;
+text-transform: capitalize;
+border:none;
+color: #FFFFFF;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1.heading{
+font-family: 'Roboto' ,sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+letter-spacing: 0.04px;
+text-transform: capitalize;
+color: #FFFFFF;
+padding-top:175px;
+}
+h5.sub_heading{
+font-family: 'Roboto' ,sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.04px;
+color: #FFFFFF;
+padding-bottom: 149px;
+}
+ul.icons {
+  display: inline-flex;
+  margin-right: 79px;
+  padding-bottom: 36px;
+  margin-top: -63px;
+}
+li {
+  padding-left: 70px;
+}
+h5.ex{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.04px;
+color: #1E6DFB;
+padding-top:60px;
+}
+
+h2{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+letter-spacing: 0.04px;
+color: #282F39;
+padding-bottom:60px;
+}
+h4 {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+
+letter-spacing: 0.04px;
+color: #3F4A59;
+}
+h4.purple{
+font-family:'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 27px;
+letter-spacing: 0.04px;
+background:-webkit-linear-gradient(45.01deg, #145DE9 33.08%, #A04AF9 82.46%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.portfolio {
+  text-align: center;
+  margin-left:-50px;
+}
+a.btn.btn-outline-secondary {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.116946px;
+text-transform: capitalize;
+color: #3F4A59;
+padding: 12.5px 30.2px 10.5px 30.2px;
+border-radius: 30px;
+}
+.full {
+  margin:50px;
+  align-items: center;
+  width:100%;
+}
+h5{
+font-family:'Roboto';
+font-style: normal!important;
+font-weight: 400!important;
+
+line-height: 24px;
+letter-spacing: 0.04px;
+color: #699EFC;
+padding-top:60px;
+padding-bottom:15px;
+}
+.serv{
+  align-items: center;
+  text-align: center;
+}
+h2.serv-sub{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+letter-spacing: 0.04px;
+color: #FFFFFF;
+
+}
+.top-left-text{
+  position: absolute;
+  top: 8px;
+  left: 26px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: 0.04px;
+  color: #1E6DFB;
+}
+
+h4.design{
+padding-top:50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0.04px;
+color: #A6A6A6;
+padding-left: 27px
+
+}
+
+h4.pres{
+  font-family:'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0.04px;
+color: #F9F9F9;
+}
+
+p.sub_press{
+  font-family:'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.04px;
+color: #F9F9F9;
+}
+.gg {
+  margin-left: -80px;
+}
+
+h5.clients {
+  font-family:' Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.04px;
+color: #1E6DFB;
+}
+
+h2.clients {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+letter-spacing: 0.04px;
+color: #282F39;
+}
+
+h2.first {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height, or 120% */
+
+text-align: center;
+letter-spacing: 0.04px;
+
+/* white */
+padding-top:80px;
+color: #FFFFFF;
+
+}
+
+p.first{
+font-family:' Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: center;
+letter-spacing: 0.04px;
+
+color: #FFFFFF;
+
+}
+
+
+
